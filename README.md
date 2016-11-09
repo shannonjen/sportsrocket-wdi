@@ -29,26 +29,24 @@ Morning and afternoon session with lecture/live code and exercises (shorter code
 
 Ruby and Intro to Rails
 
-#### Day 1
+#### Day 1 & Day 2
 
-Overview, Setup & Environment, Overview of Ruby/Rails, Intro to Ruby
-
-* [Overview](lectures/overview/overview.md)
-* [Ruby Basics One](lectures/ruby-basics-one/ruby-basics-one.md)
-* [Ruby Basics Two](lectures/ruby-basics-two/ruby-basics-two.md)
-* [Ruby Objects](lectures/ruby-objects/ruby-objects.md)
-* **Workshop**: [Intermediate Ruby Functions](workshops/intermediate-ruby-functions/intermediate-ruby-functions.md)
-* **Workshop**: [Basic Ruby](workshops/basic-ruby/basic-ruby.md)
-* **Workshop**: [Basic Ruby Functions](workshops/basic-ruby-functions/basic-ruby-functions.md)
-* **Workshop**: [Ruby Objects](workshops/ruby-objects/ruby-objects.md)
-
-#### Day 2
-
+Overview, git/GitHub Check-in, Setup & Environment, Overview of Ruby/Rails, Intro to Ruby
 Inheritance, Modules (Namespaces and Mixins), Program Organization
 
+* [Setup](http://installrails.com/)
+
+* [Ruby Basics One](lectures/ruby-basics-one/ruby-basics-one.md)
+* [Ruby Basics Two](lectures/ruby-basics-two/ruby-basics-two.md)
+* **Workshop**: [Basic Ruby](workshops/basic-ruby/basic-ruby.md)
+* **Workshop**: [Basic Ruby Functions](workshops/basic-ruby-functions/basic-ruby-functions.md)
+
+* [Ruby Objects](lectures/ruby-objects/ruby-objects.md)
 * [Ruby Basics Three](lectures/ruby-basics-three/ruby-basics-three.md)
 * [Ruby Tools](lectures/ruby-tools/ruby-tools.md)
 
+* **Workshop**: [Intermediate Ruby Functions](workshops/intermediate-ruby-functions/intermediate-ruby-functions.md)
+* **Workshop**: [Ruby Objects](workshops/ruby-objects/ruby-objects.md)
 
 #### Day 3
 
@@ -59,7 +57,7 @@ Built-Ins, Functional Programming, Blocks, Procs, & Lambdas
 
 #### Day 4
 
-Gems
+Workers & Gems
 
 * [Writing a Gem](lectures/writing-a-gem/writing-a-gem.md)
 * [Polishing your Gem](lectures/polishing-your-gem/polishing-your-gem.md)
@@ -141,9 +139,10 @@ Authentication
 * Workers & BoxxSpring
 * Design Patterns
 * Testing
-* Resque (Redis), Delayed Job, & Sidekik
 
 ### Resources
+
+* [Install Rails](http://installrails.com/)
 
 #### Ruby
 
