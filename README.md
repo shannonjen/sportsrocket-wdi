@@ -29,31 +29,33 @@ Morning and afternoon session with lecture/live code and exercises (shorter code
 
 Ruby and Intro to Rails
 
-#### Day 1 & Day 2
+#### Day 1  
 
-Overview, git/GitHub Check-in, Setup & Environment, Overview of Ruby/Rails, Intro to Ruby
-Inheritance, Modules (Namespaces and Mixins), Program Organization
+Intro to Ruby
 
 * [Setup](http://installrails.com/)
-
 * [Ruby Basics One](lectures/ruby-basics-one/ruby-basics-one.md)
 * [Ruby Basics Two](lectures/ruby-basics-two/ruby-basics-two.md)
-* **Workshop**: [Basic Ruby](workshops/basic-ruby/basic-ruby.md)
+* [Ruby Objects](lectures/ruby-objects/ruby-objects.md)
 * **Workshop**: [Basic Ruby Functions](workshops/basic-ruby-functions/basic-ruby-functions.md)
 
-* [Ruby Objects](lectures/ruby-objects/ruby-objects.md)
+#### Day 2
+
 * [Ruby Basics Three](lectures/ruby-basics-three/ruby-basics-three.md)
 * [Ruby Tools](lectures/ruby-tools/ruby-tools.md)
 
-* **Workshop**: [Intermediate Ruby Functions](workshops/intermediate-ruby-functions/intermediate-ruby-functions.md)
 * **Workshop**: [Ruby Objects](workshops/ruby-objects/ruby-objects.md)
+* **Workshop**: [Basic Ruby Functions Two](workshops/basic-ruby-functions-two/basic-ruby-functions-two.md)
+* **Workshop**: [Intermediate Ruby Functions](workshops/intermediate-ruby-functions/intermediate-ruby-functions.md)
+
+* **Homework**: Submit Workshops from Day 1 & 2
 
 #### Day 3
 
-Built-Ins, Functional Programming, Blocks, Procs, & Lambdas
+RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response Cycle, Routes, Controllers, RESTful Architecture
 
-* [Ruby Blocks, Procs, and Lambdas](lectures/ruby-blocks-procs-and-lambdas/ruby-blocks-procs-and-lambdas.md)
 * [RubyGems](lectures/rubygems/rubygems.md)
+* [Intro to Rails](lectures/introduction-to-rails/introduction-to-rails.md)
 
 #### Day 4
 
@@ -139,6 +141,9 @@ Authentication
 * Workers & BoxxSpring
 * Design Patterns
 * Testing
+
+* [Ruby Blocks, Procs, and Lambdas](lectures/ruby-blocks-procs-and-lambdas/ruby-blocks-procs-and-lambdas.md)
+
 
 ### Resources
 
