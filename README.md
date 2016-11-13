@@ -43,11 +43,9 @@ Intro to Ruby
 
 * [Ruby Basics Three](lectures/ruby-basics-three/ruby-basics-three.md)
 * [Ruby Tools](lectures/ruby-tools/ruby-tools.md)
-
 * **Workshop**: [Ruby Objects](workshops/ruby-objects/ruby-objects.md)
 * **Workshop**: [Basic Ruby Functions Two](workshops/basic-ruby-functions-two/basic-ruby-functions-two.md)
 * **Workshop**: [Intermediate Ruby Functions](workshops/intermediate-ruby-functions/intermediate-ruby-functions.md)
-
 * **Homework**: Submit Workshops from Day 1 & 2
 
 #### Day 3
@@ -56,14 +54,21 @@ RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response C
 
 * [RubyGems](lectures/rubygems/rubygems.md)
 * [Intro to Rails](lectures/introduction-to-rails/introduction-to-rails.md)
+* [Rails Models](lectures/rails-models/rails-models.md)
+* **Homework**:
+  * Read and work through [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+  * **Emre, Alena, Steven**: Create a JSON data feed using [jBuilder](https://github.com/rails/jbuilder)
 
 #### Day 4
 
-Workers & Gems
+git/GitHub, rvm, Database Theory, SQL/PostgreSQL, Database Applications
 
-* [Writing a Gem](lectures/writing-a-gem/writing-a-gem.md)
-* [Polishing your Gem](lectures/polishing-your-gem/polishing-your-gem.md)
-* **Workshop**: [Write a Gem](workshops/writing-a-gem/writing-a-gem.md)
+* [Database Theory](lectures/database-theory/database-theory.md)
+* [PostgreSQL Background](lectures/postgresql-background/postgresql-background.md)
+* [Database Applications](lectures/database-applications/database-applications.md)
+* **Workshop**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
+* **Workshop**: [Database Theory](workshops/database-theory/database-theory.md)
+
 
 
 #### Day 5
@@ -73,6 +78,11 @@ Web Frameworks, Intro to Rails, M(V)C Pattern, 3-tier pattern, HTTP Request/Resp
 * [Web Frameworks](lectures/web-frameworks/web-frameworks.md)
 * [Intro to Rails](lectures/introduction-to-rails/introduction-to-rails.md)
 
+Workers & Gems
+
+* [Writing a Gem](lectures/writing-a-gem/writing-a-gem.md)
+* [Polishing your Gem](lectures/polishing-your-gem/polishing-your-gem.md)
+* **Workshop**: [Write a Gem](workshops/writing-a-gem/writing-a-gem.md)
 
 ## Week 2
 
@@ -97,7 +107,7 @@ ActiveRecord, Building an API with JBuilder,
 * [ActiveRecord I](lectures/activerecord/activerecord.md)
 * [ActiveRecord II](lectures/activerecord-two/activerecord-two.md)
 * [Data Processing](lectures/data-processing/data-processing.md)
-* [Rails Models](lectures/rails-models/rails-models.md)
+
 * [Models Controllers](lectures/rails-models-controllers/rails-models-controllers.md)
 * [JBuilder](lectures/jbuilder/jbuilder.md)
 
