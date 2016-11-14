@@ -69,7 +69,7 @@ git/GitHub, rvm, Database Theory, SQL/PostgreSQL, Database Applications
 * **Workshop**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
 * **Workshop**: [Database Theory](workshops/database-theory/database-theory.md)
 
-#### Day 5 Mon. 11/13
+#### Day 5, Tues. 11/13
 
 ActiveRecord, Building an API with JBuilder,
 
