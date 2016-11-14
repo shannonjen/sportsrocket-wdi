@@ -29,7 +29,7 @@ Morning and afternoon session with lecture/live code and exercises (shorter code
 
 Ruby and Intro to Rails
 
-#### Day 1  
+#### Day 1, Wed. 11/9  
 
 Intro to Ruby
 
@@ -39,7 +39,7 @@ Intro to Ruby
 * [Ruby Objects](lectures/ruby-objects/ruby-objects.md)
 * **Workshop**: [Basic Ruby Functions](workshops/basic-ruby-functions/basic-ruby-functions.md)
 
-#### Day 2
+#### Day 2, Thurs. 11/10
 
 * [Ruby Basics Three](lectures/ruby-basics-three/ruby-basics-three.md)
 * [Ruby Tools](lectures/ruby-tools/ruby-tools.md)
@@ -48,7 +48,7 @@ Intro to Ruby
 * **Workshop**: [Intermediate Ruby Functions](workshops/intermediate-ruby-functions/intermediate-ruby-functions.md)
 * **Homework**: Submit Workshops from Day 1 & 2
 
-#### Day 3
+#### Day 3, Fri. 11/11
 
 RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response Cycle, Routes, Controllers, RESTful Architecture
 
@@ -59,7 +59,7 @@ RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response C
   * Read and work through [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
   * **Emre, Alena, Steven**: Create a JSON data feed using [jBuilder](https://github.com/rails/jbuilder)
 
-#### Day 4
+#### Day 4, Mon. 11/12
 
 git/GitHub, rvm, Database Theory, SQL/PostgreSQL, Database Applications
 
@@ -69,20 +69,16 @@ git/GitHub, rvm, Database Theory, SQL/PostgreSQL, Database Applications
 * **Workshop**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
 * **Workshop**: [Database Theory](workshops/database-theory/database-theory.md)
 
+#### Day 5 Mon. 11/13
 
+ActiveRecord, Building an API with JBuilder,
 
-#### Day 5
-
-Web Frameworks, Intro to Rails, M(V)C Pattern, 3-tier pattern, HTTP Request/Response Cycle, Routes, Controllers, RESTful Architecture
-
-* [Web Frameworks](lectures/web-frameworks/web-frameworks.md)
-* [Intro to Rails](lectures/introduction-to-rails/introduction-to-rails.md)
-
-Workers & Gems
-
-* [Writing a Gem](lectures/writing-a-gem/writing-a-gem.md)
-* [Polishing your Gem](lectures/polishing-your-gem/polishing-your-gem.md)
-* **Workshop**: [Write a Gem](workshops/writing-a-gem/writing-a-gem.md)
+* [ActiveRecord I](lectures/activerecord/activerecord.md)
+* [ActiveRecord II](lectures/activerecord-two/activerecord-two.md)
+* [Data Processing](lectures/data-processing/data-processing.md)
+* [Models Controllers](lectures/rails-models-controllers/rails-models-controllers.md)
+* [JBuilder](lectures/jbuilder/jbuilder.md)
+* **Workshop**: [Rails App](workshops/rails-app/rails-app.md)
 
 ## Week 2
 
@@ -92,31 +88,6 @@ Rails, Active Record Pattern, PostgreSQL, 3-Tier Architecture (presentation, log
 
 #### Day 1
 
-Database Theory, SQL/PostgreSQL, Database Applications
-
-* [Database Theory](lectures/database-theory/database-theory.md)
-* [PostgreSQL Background](lectures/postgresql-background/postgresql-background.md)
-* [Database Applications](lectures/database-applications/database-applications.md)
-* **Workshop**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
-* **Workshop**: [Database Theory](workshops/database-theory/database-theory.md)
-
-#### Day 2
-
-ActiveRecord, Building an API with JBuilder,
-
-* [ActiveRecord I](lectures/activerecord/activerecord.md)
-* [ActiveRecord II](lectures/activerecord-two/activerecord-two.md)
-* [Data Processing](lectures/data-processing/data-processing.md)
-
-* [Models Controllers](lectures/rails-models-controllers/rails-models-controllers.md)
-* [JBuilder](lectures/jbuilder/jbuilder.md)
-
-* **Workshop**: [Rails App](workshops/rails-app/rails-app.md)
-
-
-
-#### Day 3
-
 Advanced Rails and Deployment to Heroku
 
 * [Methods on your Models](lectures/methods-on-models/methods-on-models.md)
@@ -125,7 +96,7 @@ Advanced Rails and Deployment to Heroku
 
 * **Workshop**: [Deploying Rails Apps to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
 
-#### Day 4
+#### Day 2
 
 Data Integrity
 
@@ -135,7 +106,16 @@ Data Integrity
 
 * **Workshop**: [Validations & Data Integrity](workshops/validations-integrity.md/validations-integrity.md)
 
-#### Day 5
+
+#### Day 3
+
+Workers & Gems
+
+* [Writing a Gem](lectures/writing-a-gem/writing-a-gem.md)
+* [Polishing your Gem](lectures/polishing-your-gem/polishing-your-gem.md)
+* **Workshop**: [Write a Gem](workshops/writing-a-gem/writing-a-gem.md)
+
+#### Day 4
 
 Authentication
 
@@ -143,6 +123,13 @@ Authentication
 * [Token Based Authentication](lectures/token-authentication.md/token-authentication.md)
 
 * **Workshop**: [Token Authentication](workshops/token-authentication.md/token-authentication.md)
+
+
+#### Day 5
+
+
+
+
 
 
 ### Extra Material
