@@ -61,7 +61,7 @@ RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response C
 
 #### Day 4, Mon. 11/12
 
-git/GitHub, rvm, Database Theory, SQL/PostgreSQL, Database Applications
+Database Theory, SQL/PostgreSQL, Database Applications
 
 * [Database Theory](lectures/database-theory/database-theory.md)
 * [PostgreSQL Background](lectures/postgresql-background/postgresql-background.md)
@@ -71,13 +71,15 @@ git/GitHub, rvm, Database Theory, SQL/PostgreSQL, Database Applications
 
 #### Day 5, Tues. 11/13
 
-ActiveRecord, Building an API with JBuilder,
+git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with JBuilder
 
 * [git & GitHub]()
 * [ActiveRecord Rails](lectures/activerecord/activerecord.md)
 * [Rails Models Controllers](lectures/activerecord/activerecord.md)
 * [JBuilder](lectures/jbuilder/jbuilder.md)
 * **Workshop**: [Rails API](workshops/rails-api/rails-api.md)
+
+* [REST](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
 ## Week 2
 
