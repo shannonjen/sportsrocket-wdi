@@ -1,0 +1,2 @@
+class Monkey < ApplicationRecord
+end

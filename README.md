@@ -66,19 +66,18 @@ git/GitHub, rvm, Database Theory, SQL/PostgreSQL, Database Applications
 * [Database Theory](lectures/database-theory/database-theory.md)
 * [PostgreSQL Background](lectures/postgresql-background/postgresql-background.md)
 * [Database Applications](lectures/database-applications/database-applications.md)
-* **Workshop**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
 * **Workshop**: [Database Theory](workshops/database-theory/database-theory.md)
+* **Optional Challenge**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
 
 #### Day 5, Tues. 11/13
 
 ActiveRecord, Building an API with JBuilder,
 
-* [ActiveRecord I](lectures/activerecord/activerecord.md)
-* [ActiveRecord II](lectures/activerecord-two/activerecord-two.md)
-* [Data Processing](lectures/data-processing/data-processing.md)
-* [Models Controllers](lectures/rails-models-controllers/rails-models-controllers.md)
+* [git & GitHub]()
+* [ActiveRecord Rails](lectures/activerecord/activerecord.md)
+* [Rails Models Controllers](lectures/activerecord/activerecord.md)
 * [JBuilder](lectures/jbuilder/jbuilder.md)
-* **Workshop**: [Rails App](workshops/rails-app/rails-app.md)
+* **Workshop**: [Rails API](workshops/rails-api/rails-api.md)
 
 ## Week 2
 
@@ -93,7 +92,6 @@ Advanced Rails and Deployment to Heroku
 * [Methods on your Models](lectures/methods-on-models/methods-on-models.md)
 * [Rails Debugging](../../lectures/rails-debugging/rails-debugging.md)
 * [Lambda + Scope, Join Tables](../../lectures/rails-lambda-scope-join-tables/rails-lambda-scope-join-tables.md)
-
 * **Workshop**: [Deploying Rails Apps to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
 
 #### Day 2
