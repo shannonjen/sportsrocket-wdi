@@ -136,3 +136,33 @@ Application processes
 * Web Dyno
 
 * Worker Dyno
+---
+# Add Procfile
+
+
+---
+
+# Heroku: Add Redis Add-on
+
+redis To Go
+
+
+---
+
+# Heroku: Point Config VARS
+
+REDIS_PROVIDER to REDISTOGO_URL
+
+---
+
+# Scale Worker Dyno
+
+```
+$ heroku ps:scale myworker=1
+```
+
+# Check logs
+
+```
+$ heroku logs -t
+```
