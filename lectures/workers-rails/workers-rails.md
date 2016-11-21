@@ -136,15 +136,21 @@ Application processes
 * Web Dyno
 
 * Worker Dyno
+
 ---
+
 # Add Procfile
 
+```
+web: bundle exec puma -C config/puma.rb
+myworker: bundle exec sidekiq -c 1
+```
 
 ---
 
 # Heroku: Add Redis Add-on
 
-redis To Go
+Redis To Go
 
 
 ---
