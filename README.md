@@ -119,7 +119,8 @@ RESTful APIs & Authentication
 
 #### Day 4
 
-Workers & Gems
+Workers
+
 * [Workers](lectures/workers-rails/workers-rails.md)
 * [Redis](http://redis.io/)
 * [Sidekiq](http://sidekiq.org/)
