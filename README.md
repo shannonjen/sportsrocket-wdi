@@ -109,28 +109,27 @@ Data Integrity
 
 #### Day 3
 
+RESTful APIs & Authentication
+
+* [Rails APIs & Authentication](lectures/workers-rails/workers-rails.md)
+* **Homework** [RESTful API with Authentication]()
+
+
+
+
+#### Day 4
+
 Workers & Gems
+* [Workers](lectures/workers-rails/workers-rails.md)
+* [Redis](http://redis.io/)
+* [Sidekiq](http://sidekiq.org/)
+* [Heroku Workers](https://devcenter.heroku.com/articles/background-jobs-queueing)
+
+#### Day 5
 
 * [Writing a Gem](lectures/writing-a-gem/writing-a-gem.md)
 * [Polishing your Gem](lectures/polishing-your-gem/polishing-your-gem.md)
 * **Workshop**: [Write a Gem](workshops/writing-a-gem/writing-a-gem.md)
-
-#### Day 4
-
-Authentication
-
-* [Authentication](workshops/authentication.md/authentication.md)
-* [Token Based Authentication](lectures/token-authentication.md/token-authentication.md)
-
-* **Workshop**: [Token Authentication](workshops/token-authentication.md/token-authentication.md)
-
-
-#### Day 5
-
-
-
-
-
 
 ### Extra Material
 
