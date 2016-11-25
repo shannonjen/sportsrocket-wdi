@@ -114,9 +114,6 @@ RESTful APIs & Authentication
 * [Rails APIs & Authentication](lectures/workers-rails/workers-rails.md)
 * **Homework** [RESTful API with Authentication]()
 
-
-
-
 #### Day 4
 
 Workers
@@ -126,11 +123,10 @@ Workers
 * [Sidekiq](http://sidekiq.org/)
 * [Heroku Workers](https://devcenter.heroku.com/articles/background-jobs-queueing)
 
+
 #### Day 5
 
-* [Writing a Gem](lectures/writing-a-gem/writing-a-gem.md)
-* [Polishing your Gem](lectures/polishing-your-gem/polishing-your-gem.md)
-* **Workshop**: [Write a Gem](workshops/writing-a-gem/writing-a-gem.md)
+
 
 ### Extra Material
 
@@ -138,7 +134,8 @@ Workers
 * Workers & BoxxSpring
 * Design Patterns
 * Testing
-
+* [Writing a Gem](lectures/writing-a-gem/writing-a-gem.md)
+* [Polishing your Gem](lectures/polishing-your-gem/polishing-your-gem.md)
 * [Ruby Blocks, Procs, and Lambdas](lectures/ruby-blocks-procs-and-lambdas/ruby-blocks-procs-and-lambdas.md)
 
 
@@ -162,3 +159,5 @@ Workers
 * [PostgreSQL](https://www.postgresql.org/)
 * [Postgres.app](http://postgresapp.com/)
 * [Heroku | Rails](https://devcenter.heroku.com/articles/getting-started-with-rails4)
+* [cURL]()
+* [Postman]()

@@ -1,3 +1,7 @@
+# Workers 
+
+---
+
 # HTTP Request/Response Cycle
 
 Synchronous
@@ -22,7 +26,6 @@ Ruby Object that is deployed on another process
 
 Run Asynchronously
 
-Separate
 
 ---
 

@@ -1,0 +1,17 @@
+<h1>Hi Mom this is new</h1>
+
+<% if @user.errors.full_messages.any? %>
+  <ul>
+    <% @user.errors.full_messages.each do |error_message| %>
+      <li><%= error_message %></li>
+    <% end %>
+  </ul>
+<% end %>
+
+<%= form_for User.new do |t| %>
+  <%= t.label :email %>
+  <%= t.text_field :email %>
+  <%= t.label :password %>
+  <%= t.text_field :password %>
+  <%= t.submit "Eat Beans"%>
+<% end %>
