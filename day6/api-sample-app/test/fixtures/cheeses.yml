@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  aroma: 1
+  color: MyString
+  age: MyString
+  name: MyString
+  origin: MyString
+
+two:
+  aroma: 1
+  color: MyString
+  age: MyString
+  name: MyString
+  origin: MyString

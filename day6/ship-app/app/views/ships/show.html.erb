@@ -1,0 +1,28 @@
+<h1><%= @ship.name %></h1>
+<h2>Tasks</h2>
+
+<% @tasks.each do |task| %>
+  <%= task.name %> |
+  <%= task.cost %> |
+  <%= task.description %>
+  <br>
+<% end %>
+<h2>Add Task</h2>
+
+<%= form_for [@ship, @ship.tasks.build] do |t| %>
+  <%= t.label :name %>
+  <%= t.text_field :name %>
+  <%= t.label :cost %>
+  <%= t.text_field :cost %>
+  <%= t.label :description %>
+  <%= t.text_field :description %>
+  <%= t.label :origin %>
+  <%= t.text_field :origin %>
+  <%= t.label :destication %>
+  <%= t.text_field :destication %>
+  <%= t.label :containers %>
+  <%= t.text_field :containers %>
+  <%= t.label :ship_id %>
+  <%= t.text_field :ship_id %>
+  <%= t.submit %>
+<% end %>

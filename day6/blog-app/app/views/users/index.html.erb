@@ -1,0 +1,16 @@
+<h1>The User Password Registry</h1>
+
+<%= form_for  User.new do |f| %>
+  <%= f.label :username %>
+  <%= f.text_field :username %>
+  <%= f.label :password %>
+  <%= f.text_field :password %>
+  <%= f.submit %>
+<% end %>
+
+<% @users.each do |user| %>
+  <%= link_to user.username, user_path(user.id) %>
+  <%= user.password %>
+  <p>Hey, there's a spider on your shoulder</p>
+  <br>
+<% end %>

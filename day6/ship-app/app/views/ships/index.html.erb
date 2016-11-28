@@ -1,0 +1,19 @@
+<h1>The Fleet</h1>
+
+<h2>Add Ship</h2>
+<%= form_for Ship.new do |t| %>
+  <%= t.label :name %>
+  <%= t.text_field :name %>
+  <%= t.label :location %>
+  <%= t.text_field :location %>
+  <%= t.label :containercapacity %>
+  <%= t.text_field :containercapacity %>
+  <%= t.submit %>
+<% end %>
+<h2>Ships</h2>
+<% @ships.each do |ship| %>
+  <%= link_to ship.name, ship %> |
+  <%= ship.location %> |
+  <%= ship.containercapacity %>
+  <br>
+<% end %>
