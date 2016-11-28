@@ -4,10 +4,10 @@
 
 ### Key Topics
 
-*	Ruby on Rails  (Minus View)
-*	JBuilder to enhance ability to work with Rails for API development 
-*	Working with data in a Rails Application & data integrity 
-*	How to build a Ruby on Rails Application and deploy in the cloud 
+*	Ruby on Rails 
+*	Jbuilder to enhance ability to work with Rails for API development 
+*	Working with data in a Rails application & data integrity 
+*	How to build a Ruby on Rails application and deploy in the cloud 
 *	User Authentication 
 *	Explaining the notion of workers and creating a worker from first principles that can run on Heroku
 
@@ -57,7 +57,7 @@ RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response C
 * [Rails Models](lectures/rails-models/rails-models.md)
 * **Homework**:
   * Read and work through [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
-  * **Emre, Alena, Steven**: Create a JSON data feed using [jBuilder](https://github.com/rails/jbuilder)
+  * **Optional Challenge**: Create a JSON data feed using [Jbuilder](https://github.com/rails/jbuilder)
 
 #### Day 4, Mon. 11/12
 
@@ -71,15 +71,15 @@ Database Theory, SQL/PostgreSQL, Database Applications
 
 #### Day 5, Tues. 11/13
 
-git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with JBuilder
+git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with Jbuilder
 
-* [git & GitHub]()
+* [git Basics](lectures/git-basics/git-basics.md)
+* [GitHub](lectures/github/github.md)
 * [ActiveRecord Rails](lectures/activerecord/activerecord.md)
 * [Rails Models Controllers](lectures/activerecord/activerecord.md)
 * [JBuilder](lectures/jbuilder/jbuilder.md)
 * **Workshop**: [Build a Rails API](workshops/rails-api/rails-api.md)
-
-* [REST](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+* [Fielding's Dissertation: RESTful Architecture](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
 ## Week 2
 
@@ -103,9 +103,7 @@ Data Integrity
 * [Database Integrity](lectures/database-integrity/database-integrity.md)
 * [Database Integrity Two](lectures/database-integrity-two/database-integrity-two.md)
 * [Database Integrity Three](lectures/database-integrity-three/database-integrity-three.md)
-
 * **Workshop**: [Validations & Data Integrity](workshops/validations-integrity.md/validations-integrity.md)
-
 
 #### Day 3
 
@@ -126,22 +124,21 @@ Workers
 
 #### Day 5
 
+Serializers, wrapping it up, final workshop
+
+* [ActiveModel Serialization](http://guides.rubyonrails.org/active_model_basics.html#serialization)
+* [rails/activerecord/lib/active_record/serialization.rb](https://github.com/rails/rails/blob/428d47adfed8d6aa7b21aec2bf5ad890961c9de3/activerecord/lib/active_record/serialization.rb#L11)
+* [rails-api/active_model_serializers](https://github.com/rails-api/active_model_serializers/blob/master/docs/general/getting_started.md)
 
 
 ### Extra Material
 
-* Putting it all together
-* Workers & BoxxSpring
-* Design Patterns
-* Testing
 * [Writing a Gem](lectures/writing-a-gem/writing-a-gem.md)
 * [Polishing your Gem](lectures/polishing-your-gem/polishing-your-gem.md)
-* [Ruby Blocks, Procs, and Lambdas](lectures/ruby-blocks-procs-and-lambdas/ruby-blocks-procs-and-lambdas.md)
-
+* [Deploying to AWS](lectures/rails-deploying-aws/rails-deploying-aws.md)
+* [Bash Profile, Environmental Variables](lectures/bash-profile-environment-variable/bash-profile-environment-variable.md)
 
 ### Resources
-
-* [Install Rails](http://installrails.com/)
 
 #### Ruby
 
@@ -152,12 +149,12 @@ Workers
 #### Rails
 
 * [Rails Guides](http://guides.rubyonrails.org/getting_started.html)
-* [JBuilder](https://github.com/rails/jbuilder)
+* [Jbuilder](https://github.com/rails/jbuilder)
 
 #### Misc.
 
 * [PostgreSQL](https://www.postgresql.org/)
 * [Postgres.app](http://postgresapp.com/)
 * [Heroku | Rails](https://devcenter.heroku.com/articles/getting-started-with-rails4)
-* [cURL]()
-* [Postman]()
+* [cURL](https://curl.haxx.se/)
+* [Postman](https://www.getpostman.com/)
