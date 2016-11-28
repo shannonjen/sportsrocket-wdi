@@ -4,7 +4,7 @@
 
 ### Key Topics
 
-*	Ruby on Rails 
+*	Ruby on Rails  (minus the view)
 *	Jbuilder to enhance ability to work with Rails for API development 
 *	Working with data in a Rails application & data integrity 
 *	How to build a Ruby on Rails application and deploy in the cloud 
@@ -60,7 +60,7 @@ RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response C
   * **Optional Challenge**: Create a JSON data feed using [Jbuilder](https://github.com/rails/jbuilder)
 * [Geolocater Gem](https://rubygems.org/gems/geolocater/versions/0.1.0)
 
-#### Day 4, Mon. 11/12
+#### Day 4, Mon. 11/14
 
 Database Theory, SQL/PostgreSQL, Database Applications
 
@@ -71,7 +71,7 @@ Database Theory, SQL/PostgreSQL, Database Applications
 * **Optional Challenge**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
 * [PostgreSQL Tutorial](https://www.postgresql.org/docs/9.6/static/tutorial-arch.html)
 
-#### Day 5, Tues. 11/13
+#### Day 5, Tues. 11/15
 
 git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with Jbuilder
 
@@ -90,21 +90,21 @@ git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with J
 
 Rails, Active Record Pattern, PostgreSQL, 3-Tier Architecture (presentation, logic, persistence), Rack, RESTful Architecture, Authentication
 
-#### Day 1
+#### Day 1, Wed. 11/16
 
-Advanced Rails and Deployment to Heroku
+More Rails and Deployment to Heroku
 
 * [Methods on your Models](lectures/methods-on-models/methods-on-models.md)
 * [Rails Debugging](../../lectures/rails-debugging/rails-debugging.md)
 * [Lambda + Scope, Join Tables](../../lectures/rails-lambda-scope-join-tables/rails-lambda-scope-join-tables.md)
-* **Workshop**: [Deploying Rails Apps to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
+* **Workshop**: [Deploying Rails Apps to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 * [todo-backend-rails](https://github.com/hammerdr/todo-backend-rails)
 * [todo-backend-rails5-api](https://github.com/doerfli/todo-backend-rails5-api)
 * [JSON](http://www.json.org/)
 * [Heroku: Getting Started Rails 5](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 
 
-#### Day 2
+#### Day 2, Thurs. 11/17
 
 Data Integrity
 
@@ -113,7 +113,7 @@ Data Integrity
 * [Database Integrity Three](lectures/database-integrity-three/database-integrity-three.md)
 * **Workshop**: [Validations & Data Integrity](workshops/validations-integrity.md/validations-integrity.md)
 
-#### Day 3
+#### Day 3, Fri. 11/18
 
 RESTful APIs & Authentication
 
@@ -122,7 +122,7 @@ RESTful APIs & Authentication
 * **Homework** [RESTful API with Authentication]()
 * [OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
-#### Day 4
+#### Day 4, Mon. 11/21
 
 Workers
 
@@ -133,23 +133,23 @@ Workers
 * [Concurrency and Parallelism](https://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer)
 
 
-#### Day 5
+####  Day 5, Tues. 11/22
 
-Serializers, wrapping it up, final workshop
+More workers, Serializers, wrapping it up, final workshop
 
 * [ActiveModel Serialization](http://guides.rubyonrails.org/active_model_basics.html#serialization)
 * [rails/activerecord/lib/active_record/serialization.rb](https://github.com/rails/rails/blob/428d47adfed8d6aa7b21aec2bf5ad890961c9de3/activerecord/lib/active_record/serialization.rb#L11)
 * [rails-api/active_model_serializers](https://github.com/rails-api/active_model_serializers/blob/master/docs/general/getting_started.md)
 
 
-### Extra Material
+## Extra Material
 
 * [Writing a Gem](lectures/writing-a-gem/writing-a-gem.md)
 * [Polishing your Gem](lectures/polishing-your-gem/polishing-your-gem.md)
 * [Deploying to AWS](lectures/rails-deploying-aws/rails-deploying-aws.md)
 * [Bash Profile, Environmental Variables](lectures/bash-profile-environment-variable/bash-profile-environment-variable.md)
 
-### Resources
+## Resources
 
 #### Ruby
 
@@ -161,6 +161,7 @@ Serializers, wrapping it up, final workshop
 
 * [Rails Guides](http://guides.rubyonrails.org/getting_started.html)
 * [Jbuilder](https://github.com/rails/jbuilder)
+* [Rails API-only Apps](http://edgeguides.rubyonrails.org/api_app.html)
 * [Hartl Ruby on Rails Tutorial](https://www.railstutorial.org/)
 
 #### Misc.
