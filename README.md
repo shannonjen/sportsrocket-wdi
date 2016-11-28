@@ -77,7 +77,7 @@ git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with J
 * [ActiveRecord Rails](lectures/activerecord/activerecord.md)
 * [Rails Models Controllers](lectures/activerecord/activerecord.md)
 * [JBuilder](lectures/jbuilder/jbuilder.md)
-* **Workshop**: [Rails API](workshops/rails-api/rails-api.md)
+* **Workshop**: [Build a Rails API](workshops/rails-api/rails-api.md)
 
 * [REST](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
