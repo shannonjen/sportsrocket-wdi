@@ -58,6 +58,7 @@ RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response C
 * **Homework**:
   * Read and work through [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
   * **Optional Challenge**: Create a JSON data feed using [Jbuilder](https://github.com/rails/jbuilder)
+* [Geolocater Gem](https://rubygems.org/gems/geolocater/versions/0.1.0)
 
 #### Day 4, Mon. 11/12
 
@@ -68,6 +69,7 @@ Database Theory, SQL/PostgreSQL, Database Applications
 * [Database Applications](lectures/database-applications/database-applications.md)
 * **Workshop**: [Database Theory](workshops/database-theory/database-theory.md)
 * **Optional Challenge**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
+* [PostgreSQL Tutorial](https://www.postgresql.org/docs/9.6/static/tutorial-arch.html)
 
 #### Day 5, Tues. 11/13
 
@@ -80,6 +82,7 @@ git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with J
 * [JBuilder](lectures/jbuilder/jbuilder.md)
 * **Workshop**: [Build a Rails API](workshops/rails-api/rails-api.md)
 * [Fielding's Dissertation: RESTful Architecture](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+* [ActiveRecord Migrations](http://guides.rubyonrails.org/active_record_migrations.html)
 
 ## Week 2
 
@@ -95,6 +98,11 @@ Advanced Rails and Deployment to Heroku
 * [Rails Debugging](../../lectures/rails-debugging/rails-debugging.md)
 * [Lambda + Scope, Join Tables](../../lectures/rails-lambda-scope-join-tables/rails-lambda-scope-join-tables.md)
 * **Workshop**: [Deploying Rails Apps to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
+* [todo-backend-rails](https://github.com/hammerdr/todo-backend-rails)
+* [todo-backend-rails5-api](https://github.com/doerfli/todo-backend-rails5-api)
+* [JSON](http://www.json.org/)
+* [Heroku: Getting Started Rails 5](https://devcenter.heroku.com/articles/getting-started-with-rails5)
+
 
 #### Day 2
 
@@ -110,7 +118,9 @@ Data Integrity
 RESTful APIs & Authentication
 
 * [Rails APIs & Authentication](lectures/workers-rails/workers-rails.md)
+* [Simple Steps](https://github.com/shannonjen/moovies/blob/master/README.md)
 * **Homework** [RESTful API with Authentication]()
+* [OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
 #### Day 4
 
@@ -120,6 +130,7 @@ Workers
 * [Redis](http://redis.io/)
 * [Sidekiq](http://sidekiq.org/)
 * [Heroku Workers](https://devcenter.heroku.com/articles/background-jobs-queueing)
+* [Concurrency and Parallelism](https://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer)
 
 
 #### Day 5
@@ -150,6 +161,7 @@ Serializers, wrapping it up, final workshop
 
 * [Rails Guides](http://guides.rubyonrails.org/getting_started.html)
 * [Jbuilder](https://github.com/rails/jbuilder)
+* [Hartl Ruby on Rails Tutorial](https://www.railstutorial.org/)
 
 #### Misc.
 
@@ -158,3 +170,4 @@ Serializers, wrapping it up, final workshop
 * [Heroku | Rails](https://devcenter.heroku.com/articles/getting-started-with-rails4)
 * [cURL](https://curl.haxx.se/)
 * [Postman](https://www.getpostman.com/)
+* [todobackend](http://www.todobackend.com/)
