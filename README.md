@@ -1,6 +1,6 @@
 # Sportsrocket WDI
 
-2-week Ruby/Rails Intensive for Developers focusing on API Development
+2-week Ruby/Rails Intensive focusing on API Development
 
 ### Key Topics
 
@@ -111,7 +111,7 @@ Data Integrity
 * [Database Integrity](lectures/database-integrity/database-integrity.md)
 * [Database Integrity Two](lectures/database-integrity-two/database-integrity-two.md)
 * [Database Integrity Three](lectures/database-integrity-three/database-integrity-three.md)
-* **Workshop**: [Validations & Data Integrity](workshops/validations-integrity.md/validations-integrity.md)
+* **Workshop**: [Validations & Data Integrity](workshops/validations/validations.md)
 
 #### Day 3, Fri. 11/18
 
@@ -119,7 +119,7 @@ RESTful APIs & Authentication
 
 * [Rails APIs & Authentication](lectures/workers-rails/workers-rails.md)
 * [Simple Steps](https://github.com/shannonjen/moovies/blob/master/README.md)
-* **Homework** [RESTful API with Authentication]()
+* **Homework** [RESTful API with Authentication](workshops/authentication/authentication.md)
 * [OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
 #### Day 4, Mon. 11/21
