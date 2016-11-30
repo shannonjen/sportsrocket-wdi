@@ -13,7 +13,7 @@
 
 ### Schedule
 
-Wed 11/9- Tues 11/22: 10AM - 6PM
+Wed. 11/9- Tues. 11/22: 10AM - 6PM
 
 Morning and afternoon session with lecture/live code and exercises (shorter code challenges) and a late afternoon workshop (projects often done in pairs).
 
@@ -31,13 +31,19 @@ Ruby and Intro to Rails
 
 #### Day 1, Wed. 11/9  
 
-Intro to Ruby
+Setup and introduction to Ruby
 
 * [Setup](http://installrails.com/)
 * [Ruby Basics One](lectures/ruby-basics-one/ruby-basics-one.md)
 * [Ruby Basics Two](lectures/ruby-basics-two/ruby-basics-two.md)
 * [Ruby Objects](lectures/ruby-objects/ruby-objects.md)
 * **Workshop**: [Basic Ruby Functions](workshops/basic-ruby-functions/basic-ruby-functions.md)
+
+References & Resources:
+
+* Ruby Version Management [RVM](https://rvm.io/)
+* Beginner Ruby tutorial from ruby-lang.org [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+* Interactive beginner Ruby tutorial [Try Ruby](http://tryruby.org/)
 
 #### Day 2, Thurs. 11/10
 
@@ -50,15 +56,20 @@ Intro to Ruby
 
 #### Day 3, Fri. 11/11
 
-RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response Cycle, Routes, Controllers, RESTful Architecture
+RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response Cycle, Routes, Controllers
 
 * [RubyGems](lectures/rubygems/rubygems.md)
 * [Intro to Rails](lectures/introduction-to-rails/introduction-to-rails.md)
 * [Rails Models](lectures/rails-models/rails-models.md)
+* [Simple API](https://github.com/shannonjen/simple-api)
 * **Homework**:
   * Read and work through [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
   * **Optional Challenge**: Create a JSON data feed using [Jbuilder](https://github.com/rails/jbuilder)
-* [Geolocater Gem](https://rubygems.org/gems/geolocater/versions/0.1.0)
+
+References & Resources:
+
+* [Geolocater Gem](https://rubygems.org/gems/geolocater)
+* [Rainbow Gem](https://rubygems.org/gems/rainbow)
 
 #### Day 4, Mon. 11/14
 
@@ -71,6 +82,10 @@ Database Theory, SQL/PostgreSQL, Database Applications
 * **Optional Challenge**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
 * [PostgreSQL Tutorial](https://www.postgresql.org/docs/9.6/static/tutorial-arch.html)
 
+References & Resources:
+
+* Great intro to relational databases, SQL, and PostgreSQL from PostgreSQL [PostgreSQL Tutorial](https://www.postgresql.org/docs/current/static/tutorial.html)
+
 #### Day 5, Tues. 11/15
 
 git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with Jbuilder
@@ -81,8 +96,12 @@ git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with J
 * [Rails Models Controllers](lectures/activerecord/activerecord.md)
 * [JBuilder](lectures/jbuilder/jbuilder.md)
 * **Workshop**: [Build a Rails API](workshops/rails-api/rails-api.md)
-* [Fielding's Dissertation: RESTful Architecture](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-* [ActiveRecord Migrations](http://guides.rubyonrails.org/active_record_migrations.html)
+
+References & Resources:
+
+* Roy Fielding coined REST in his dissertation (2000): Architectural Styles and the Design of Network-based Software Architectures (Ph.D. University of California, Irvine).[Chapter 5: Representational State Transfer (REST)](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+* Helpful read on ActiveRecord migrations with information on generators, schemas, seeding, and AR methods for database manipulation [RailsGuides: ActiveRecord Migrations](http://guides.rubyonrails.org/active_record_migrations.html)
+* [Jbuilder](https://github.com/rails/jbuilder)
 
 ## Week 2
 
@@ -98,11 +117,13 @@ More Rails and Deployment to Heroku
 * [Rails Debugging](../../lectures/rails-debugging/rails-debugging.md)
 * [Lambda + Scope, Join Tables](../../lectures/rails-lambda-scope-join-tables/rails-lambda-scope-join-tables.md)
 * **Workshop**: [Deploying Rails Apps to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
-* [todo-backend-rails](https://github.com/hammerdr/todo-backend-rails)
-* [todo-backend-rails5-api](https://github.com/doerfli/todo-backend-rails5-api)
+
+References & Resources:
+
+* Part of the Todo-Backend project, this vanilla Rails 4 example was written by the creator of Rails [todo-backend-rails](https://github.com/hammerdr/todo-backend-rails)
+* Another Todo-Backend, this example uses Rails 5 api only mode [todo-backend-rails5-api](https://github.com/doerfli/todo-backend-rails5-api)
 * [JSON](http://www.json.org/)
 * [Heroku: Getting Started Rails 5](https://devcenter.heroku.com/articles/getting-started-with-rails5)
-
 
 #### Day 2, Thurs. 11/17
 
@@ -113,6 +134,10 @@ Data Integrity
 * [Database Integrity Three](lectures/database-integrity-three/database-integrity-three.md)
 * **Workshop**: [Validations & Data Integrity](workshops/validations/validations.md)
 
+References & Resources:
+
+* [Active Record Validations](http://guides.rubyonrails.org/active_record_validations.html)
+
 #### Day 3, Fri. 11/18
 
 RESTful APIs & Authentication
@@ -120,6 +145,9 @@ RESTful APIs & Authentication
 * [Rails APIs & Authentication](lectures/workers-rails/workers-rails.md)
 * [Simple Steps](https://github.com/shannonjen/moovies/blob/master/README.md)
 * **Homework** [RESTful API with Authentication](workshops/authentication/authentication.md)
+
+References & Resources:
+
 * [OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
 #### Day 4, Mon. 11/21
@@ -130,7 +158,7 @@ Workers
 * [Redis](http://redis.io/)
 * [Sidekiq](http://sidekiq.org/)
 * [Heroku Workers](https://devcenter.heroku.com/articles/background-jobs-queueing)
-* [Concurrency and Parallelism](https://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer)
+
 
 
 ####  Day 5, Tues. 11/22
