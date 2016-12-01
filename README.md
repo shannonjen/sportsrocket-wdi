@@ -31,7 +31,7 @@ Ruby and Intro to Rails
 
 #### Day 1, Wed. 11/9  
 
-Setup and introduction to Ruby
+*Setup and introduction to Ruby*
 
 * [Setup](http://installrails.com/)
 * [Ruby Basics One](lectures/ruby-basics-one/ruby-basics-one.md)
@@ -56,7 +56,7 @@ Setup and introduction to Ruby
 
 #### Day 3, Fri. 11/11
 
-RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response Cycle, Routes, Controllers
+*RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response Cycle, Routes, Controllers*
 
 * [RubyGems](lectures/rubygems/rubygems.md)
 * [Intro to Rails](lectures/introduction-to-rails/introduction-to-rails.md)
@@ -75,22 +75,21 @@ RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response C
 
 #### Day 4, Mon. 11/14
 
-Database Theory, SQL/PostgreSQL, Database Applications
+*Database Theory, SQL/PostgreSQL, Database Applications*
 
 * [Database Theory](lectures/database-theory/database-theory.md)
 * [PostgreSQL Background](lectures/postgresql-background/postgresql-background.md)
 * [Database Applications](lectures/database-applications/database-applications.md)
 * **Workshop**: [Database Theory](workshops/database-theory/database-theory.md)
 * **Optional Challenge**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
-* [PostgreSQL Tutorial](https://www.postgresql.org/docs/9.6/static/tutorial-arch.html)
 
- **References & Resources**
+**References & Resources**
 
-* Great intro to relational databases, SQL, and PostgreSQL from PostgreSQL [PostgreSQL Tutorial](https://www.postgresql.org/docs/current/static/tutorial.html)
+* Great deeper intro to relational databases, SQL, and PostgreSQL from Postgres [PostgreSQL Tutorial](https://www.postgresql.org/docs/current/static/tutorial.html)
 
 #### Day 5, Tues. 11/15
 
-git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with Jbuilder
+*git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with Jbuilder*
 
 * [git Basics](lectures/git-basics/git-basics.md)
 * [GitHub](lectures/github/github.md)
@@ -113,7 +112,7 @@ Rails, Active Record Pattern, PostgreSQL, 3-Tier Architecture (presentation, log
 
 #### Day 1, Wed. 11/16
 
-More Rails and Deployment to Heroku
+*More Rails and Deployment to Heroku*
 
 * [Methods on your Models](lectures/methods-on-models/methods-on-models.md)
 * [Rails Debugging](../../lectures/rails-debugging/rails-debugging.md)
@@ -129,7 +128,7 @@ More Rails and Deployment to Heroku
 
 #### Day 2, Thurs. 11/17
 
-Data Integrity
+*Data Integrity*
 
 * [Database Integrity](lectures/database-integrity/database-integrity.md)
 * [Database Integrity Two](lectures/database-integrity-two/database-integrity-two.md)
@@ -142,7 +141,7 @@ Data Integrity
 
 #### Day 3, Fri. 11/18
 
-RESTful APIs & Authentication
+*RESTful APIs & Authentication*
 
 * [Rails APIs & Authentication](lectures/workers-rails/workers-rails.md)
 * [Simple Steps](https://github.com/shannonjen/moovies/blob/master/README.md)
@@ -154,14 +153,12 @@ RESTful APIs & Authentication
 
 #### Day 4, Mon. 11/21
 
-Workers
+*Workers*
 
 * [Workers](lectures/workers-rails/workers-rails.md)
 * [Redis](http://redis.io/)
 * [Sidekiq](http://sidekiq.org/)
 * [Heroku Workers](https://devcenter.heroku.com/articles/background-jobs-queueing)
-
-
 
 ####  Day 5, Tues. 11/22
 
@@ -170,7 +167,6 @@ More workers, Serializers, wrapping it up, final workshop
 * [ActiveModel Serialization](http://guides.rubyonrails.org/active_model_basics.html#serialization)
 * [rails/activerecord/lib/active_record/serialization.rb](https://github.com/rails/rails/blob/428d47adfed8d6aa7b21aec2bf5ad890961c9de3/activerecord/lib/active_record/serialization.rb#L11)
 * [rails-api/active_model_serializers](https://github.com/rails-api/active_model_serializers/blob/master/docs/general/getting_started.md)
-
 
 ## Extra Material
 
