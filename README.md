@@ -162,7 +162,7 @@ Rails, Active Record Pattern, PostgreSQL, 3-Tier Architecture (presentation, log
 
 ####  Day 5, Tues. 11/22
 
-More workers, Serializers, wrapping it up, final workshop
+*More workers, Serializers, wrapping it up, final workshop*
 
 * [ActiveModel Serialization](http://guides.rubyonrails.org/active_model_basics.html#serialization)
 * [rails/activerecord/lib/active_record/serialization.rb](https://github.com/rails/rails/blob/428d47adfed8d6aa7b21aec2bf5ad890961c9de3/activerecord/lib/active_record/serialization.rb#L11)
