@@ -39,11 +39,11 @@ Setup and introduction to Ruby
 * [Ruby Objects](lectures/ruby-objects/ruby-objects.md)
 * **Workshop**: [Basic Ruby Functions](workshops/basic-ruby-functions/basic-ruby-functions.md)
 
-References & Resources:
+**References & Resources**
 
-* Ruby Version Management [RVM](https://rvm.io/)
-* Beginner Ruby tutorial from ruby-lang.org [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-* Interactive beginner Ruby tutorial [Try Ruby](http://tryruby.org/)
+* Ruby Version Management: [RVM](https://rvm.io/)
+* Beginner Ruby tutorial from ruby-lang.org: [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+* Interactive beginner Ruby tutorial: [Try Ruby](http://tryruby.org/)
 
 #### Day 2, Thurs. 11/10
 
@@ -66,10 +66,12 @@ RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response C
   * Read and work through [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
   * **Optional Challenge**: Create a JSON data feed using [Jbuilder](https://github.com/rails/jbuilder)
 
-References & Resources:
+**References & Resources**
 
 * [Geolocater Gem](https://rubygems.org/gems/geolocater)
 * [Rainbow Gem](https://rubygems.org/gems/rainbow)
+* [cURL](https://curl.haxx.se/)
+* [Postman](https://www.getpostman.com/)
 
 #### Day 4, Mon. 11/14
 
@@ -82,7 +84,7 @@ Database Theory, SQL/PostgreSQL, Database Applications
 * **Optional Challenge**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
 * [PostgreSQL Tutorial](https://www.postgresql.org/docs/9.6/static/tutorial-arch.html)
 
-References & Resources:
+ **References & Resources**
 
 * Great intro to relational databases, SQL, and PostgreSQL from PostgreSQL [PostgreSQL Tutorial](https://www.postgresql.org/docs/current/static/tutorial.html)
 
@@ -97,10 +99,10 @@ git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with J
 * [JBuilder](lectures/jbuilder/jbuilder.md)
 * **Workshop**: [Build a Rails API](workshops/rails-api/rails-api.md)
 
-References & Resources:
+**References & Resources**
 
-* Roy Fielding coined REST in his dissertation (2000): Architectural Styles and the Design of Network-based Software Architectures (Ph.D. University of California, Irvine).[Chapter 5: Representational State Transfer (REST)](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-* Helpful read on ActiveRecord migrations with information on generators, schemas, seeding, and AR methods for database manipulation [RailsGuides: ActiveRecord Migrations](http://guides.rubyonrails.org/active_record_migrations.html)
+* Roy Fielding coined REST in his dissertation (2000): Architectural Styles and the Design of Network-based Software Architectures (Ph.D. University of California, Irvine): [Chapter 5: Representational State Transfer (REST)](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+* Helpful read on ActiveRecord migrations with information on generators, schemas, seeding, and AR methods for database manipulation: [RailsGuides: ActiveRecord Migrations](http://guides.rubyonrails.org/active_record_migrations.html)
 * [Jbuilder](https://github.com/rails/jbuilder)
 
 ## Week 2
@@ -118,10 +120,10 @@ More Rails and Deployment to Heroku
 * [Lambda + Scope, Join Tables](../../lectures/rails-lambda-scope-join-tables/rails-lambda-scope-join-tables.md)
 * **Workshop**: [Deploying Rails Apps to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 
-References & Resources:
+**References & Resources**
 
-* Part of the Todo-Backend project, this vanilla Rails 4 example was written by the creator of Rails [todo-backend-rails](https://github.com/hammerdr/todo-backend-rails)
-* Another Todo-Backend, this example uses Rails 5 api only mode [todo-backend-rails5-api](https://github.com/doerfli/todo-backend-rails5-api)
+* Part of the [Todo-Backend project](http://www.todobackend.com/), this vanilla Rails 4 example was written by the creator of Rails: [todo-backend-rails](https://github.com/hammerdr/todo-backend-rails)
+* Another Todo-Backend, this example uses Rails 5 api only mode: [todo-backend-rails5-api](https://github.com/doerfli/todo-backend-rails5-api)
 * [JSON](http://www.json.org/)
 * [Heroku: Getting Started Rails 5](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 
@@ -134,7 +136,7 @@ Data Integrity
 * [Database Integrity Three](lectures/database-integrity-three/database-integrity-three.md)
 * **Workshop**: [Validations & Data Integrity](workshops/validations/validations.md)
 
-References & Resources:
+**References & Resources**
 
 * [Active Record Validations](http://guides.rubyonrails.org/active_record_validations.html)
 
@@ -146,7 +148,7 @@ RESTful APIs & Authentication
 * [Simple Steps](https://github.com/shannonjen/moovies/blob/master/README.md)
 * **Homework** [RESTful API with Authentication](workshops/authentication/authentication.md)
 
-References & Resources:
+**References & Resources**
 
 * [OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
