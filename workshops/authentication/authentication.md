@@ -2,9 +2,9 @@
 
 Develop a RESTful Rails API that
 
-	•	Is Backed By Postgres
-	•	Authenticates Users (Token Based Authentication)
-	•	Incorporates Validations
+*	Is Backed By Postgres
+*	Authenticates Users (Token Based Authentication)
+*	Incorporates Validations
 
 Push your API to Heroku
 

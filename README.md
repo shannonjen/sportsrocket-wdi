@@ -34,22 +34,21 @@ Ruby and Intro to Rails
 *Setup and introduction to Ruby*
 
 * [Setup](http://installrails.com/)
-* [Ruby Basics One](lectures/ruby-basics-one/ruby-basics-one.md)
-* [Ruby Basics Two](lectures/ruby-basics-two/ruby-basics-two.md)
-* [Ruby Objects](lectures/ruby-objects/ruby-objects.md)
+* **Lecture**: [Ruby Basics One](lectures/ruby-basics-one/ruby-basics-one.md)
+* **Lecture**: [Ruby Basics Two](lectures/ruby-basics-two/ruby-basics-two.md)
+* **Lecture**: [Ruby Objects](lectures/ruby-objects/ruby-objects.md)
 * **Workshop**: [Basic Ruby Functions](workshops/basic-ruby-functions/basic-ruby-functions.md)
-
-**References & Resources**
-
-* Ruby Version Management: [RVM](https://rvm.io/)
-* Beginner Ruby tutorial from ruby-lang.org: [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-* Interactive beginner Ruby tutorial: [Try Ruby](http://tryruby.org/)
+* **References & Resources**:
+  * Ruby Version Management: [RVM](https://rvm.io/)
+  * Beginner Ruby tutorial from ruby-lang.org: [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+  * Interactive beginner Ruby tutorial: [Try Ruby](http://tryruby.org/)
 
 #### Day 2, Thurs. 11/10
 
-* [Ruby Basics Three](lectures/ruby-basics-three/ruby-basics-three.md)
-* [Ruby Tools](lectures/ruby-tools/ruby-tools.md)
+* **Lecture**: [Ruby Objects](lectures/ruby-objects/ruby-objects.md)
 * **Workshop**: [Ruby Objects](workshops/ruby-objects/ruby-objects.md)
+* **Lecture**:[Ruby Basics Three](lectures/ruby-basics-three/ruby-basics-three.md)
+* **Lecture**: [Ruby Tools](lectures/ruby-tools/ruby-tools.md)
 * **Workshop**: [Basic Ruby Functions Two](workshops/basic-ruby-functions-two/basic-ruby-functions-two.md)
 * **Workshop**: [Intermediate Ruby Functions](workshops/intermediate-ruby-functions/intermediate-ruby-functions.md)
 * **Homework**: Submit Workshops from Day 1 & 2
@@ -58,9 +57,9 @@ Ruby and Intro to Rails
 
 *RubyGems, Intro to Rails: M(V)C Pattern, 3-tier pattern, HTTP Request/Response Cycle, Routes, Controllers*
 
-* [RubyGems](lectures/rubygems/rubygems.md)
-* [Intro to Rails](lectures/introduction-to-rails/introduction-to-rails.md)
-* [Rails Models](lectures/rails-models/rails-models.md)
+* **Lecture**: [RubyGems](lectures/rubygems/rubygems.md)
+* **Lecture**: [Intro to Rails](lectures/introduction-to-rails/introduction-to-rails.md)
+* **Lecture**: [Rails Models](lectures/rails-models/rails-models.md)
 * [Simple API](https://github.com/shannonjen/simple-api)
 * **Homework**:
   * Read and work through [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
@@ -77,9 +76,9 @@ Ruby and Intro to Rails
 
 *Database Theory, SQL/PostgreSQL, Database Applications*
 
-* [Database Theory](lectures/database-theory/database-theory.md)
-* [PostgreSQL Background](lectures/postgresql-background/postgresql-background.md)
-* [Database Applications](lectures/database-applications/database-applications.md)
+* **Lecture**: [Database Theory](lectures/database-theory/database-theory.md)
+* **Lecture**: [PostgreSQL Background](lectures/postgresql-background/postgresql-background.md)
+* **Lecture**: [Database Applications](lectures/database-applications/database-applications.md)
 * **Workshop**: [Database Theory](workshops/database-theory/database-theory.md)
 * **Optional Challenge**: [ORM in Ruby](workshops/ruby-orm/orm-in-ruby.md)
 
@@ -91,10 +90,10 @@ Ruby and Intro to Rails
 
 *git & GitHub crash course, ActiveRecord, RESTful Routing, Building an API with Jbuilder*
 
-* [git Basics](lectures/git-basics/git-basics.md)
-* [GitHub](lectures/github/github.md)
-* [ActiveRecord Rails](lectures/activerecord/activerecord.md)
-* [Rails Models Controllers](lectures/activerecord/activerecord.md)
+* **Lecture**: [git Basics](lectures/git-basics/git-basics.md)
+* **Lecture**: [GitHub](lectures/github/github.md)
+* **Lecture**: [ActiveRecord Rails](lectures/activerecord/activerecord.md)
+* **Lecture**: [Rails Models Controllers](lectures/activerecord/activerecord.md)
 * [JBuilder](lectures/jbuilder/jbuilder.md)
 * **Workshop**: [Build a Rails API](workshops/rails-api/rails-api.md)
 
@@ -114,9 +113,9 @@ Rails, Active Record Pattern, PostgreSQL, 3-Tier Architecture (presentation, log
 
 *More Rails and Deployment to Heroku*
 
-* [Methods on your Models](lectures/methods-on-models/methods-on-models.md)
-* [Rails Debugging](../../lectures/rails-debugging/rails-debugging.md)
-* [Lambda + Scope, Join Tables](../../lectures/rails-lambda-scope-join-tables/rails-lambda-scope-join-tables.md)
+* **Lecture**: [Methods on your Models](lectures/methods-on-models/methods-on-models.md)
+* **Lecture**: [Rails Debugging](../../lectures/rails-debugging/rails-debugging.md)
+* **Lecture**: [Lambda + Scope, Join Tables](../../lectures/rails-lambda-scope-join-tables/rails-lambda-scope-join-tables.md)
 * **Workshop**: [Deploying Rails Apps to Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 
 **References & Resources**
@@ -130,9 +129,9 @@ Rails, Active Record Pattern, PostgreSQL, 3-Tier Architecture (presentation, log
 
 *Data Integrity*
 
-* [Database Integrity](lectures/database-integrity/database-integrity.md)
-* [Database Integrity Two](lectures/database-integrity-two/database-integrity-two.md)
-* [Database Integrity Three](lectures/database-integrity-three/database-integrity-three.md)
+* **Lecture**: [Database Integrity](lectures/database-integrity/database-integrity.md)
+* **Lecture**: [Database Integrity Two](lectures/database-integrity-two/database-integrity-two.md)
+* **Lecture**: [Database Integrity Three](lectures/database-integrity-three/database-integrity-three.md)
 * **Workshop**: [Validations & Data Integrity](workshops/validations/validations.md)
 
 **References & Resources**
@@ -143,7 +142,7 @@ Rails, Active Record Pattern, PostgreSQL, 3-Tier Architecture (presentation, log
 
 *RESTful APIs & Authentication*
 
-* [Rails APIs & Authentication](lectures/workers-rails/workers-rails.md)
+* **Lecture**: [Rails APIs & Authentication](lectures/workers-rails/workers-rails.md)
 * [Simple Steps](https://github.com/shannonjen/moovies/blob/master/README.md)
 * **Homework** [RESTful API with Authentication](workshops/authentication/authentication.md)
 
@@ -155,7 +154,7 @@ Rails, Active Record Pattern, PostgreSQL, 3-Tier Architecture (presentation, log
 
 *Workers*
 
-* [Workers](lectures/workers-rails/workers-rails.md)
+* **Lecture**: [Workers](lectures/workers-rails/workers-rails.md)
 * [Redis](http://redis.io/)
 * [Sidekiq](http://sidekiq.org/)
 * [Heroku Workers](https://devcenter.heroku.com/articles/background-jobs-queueing)
